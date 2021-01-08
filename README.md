@@ -1,0 +1,2 @@
+# smsmarketing
+Sms marketing or sms advertising service helps you to inform news,promotion,or activities,from your business direct to the right target of your customers .With this service you can save your cost from advertising plans and Also, you can target large audience with in  your budget limit. The cost to send the text messages will vary based on recipients and other parameters, but it is typically very inexpensive. The messages are delivered through an SMS gateway.
